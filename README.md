@@ -1,5 +1,5 @@
 # Electrical-Machines---Induction-Motor-Circle-Diagram-Project
-Code for Circle Diagram of Induction Motor
+Code for Circle Diagram of Induction Motor\
 1.How to contribute:\
 a.Fork the repo.\
 b.Create a branch with name of the feature/bug, eg: make a branch for feature foo as foo.\

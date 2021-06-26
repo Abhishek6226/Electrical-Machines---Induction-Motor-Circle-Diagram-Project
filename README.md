@@ -4,6 +4,7 @@ Code for Circle Diagram of Induction Motor
 a.Fork the repo.\
 b.Create a branch with name of the feature/bug, eg: make a branch for feature foo as foo.\
 c.Create a pull request.\
+
 2.How to use:\
 a.Download the code.\
 b.Install all packages mentioned in requirements.txt file.\
